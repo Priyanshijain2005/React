@@ -1,0 +1,25 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "i am a second year student",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Priyanshijain2005/React.git)"
+  },
+  "author": "priyanshi jain",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
